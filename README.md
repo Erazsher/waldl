@@ -1,6 +1,6 @@
 # waldl
 
-Browser [wallhaven](https://wallhaven.cc/) using `sxiv`
+Browser [wallhaven](https://wallhaven.cc/) using `nsxiv`
 
 ### [script showcasing video](https://youtu.be/C7n-34bEdF8)
 
